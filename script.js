@@ -5,3 +5,4 @@ $(document).ready(function () {
     ctx.fillstyle = 'red';
     ctx.fillRect(50, 100, 10, 10);
 });
+/* Adding a comment */
